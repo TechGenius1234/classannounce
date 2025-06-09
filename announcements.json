@@ -1,0 +1,9 @@
+[
+  {
+    "category": "Advisory",
+    "title": "Special Weather Statement - Heat Event",
+    "messageFile": "/api/announcements/messages/advisory/SWS-08JUN25.md",
+    "time": "2025-06-08T05:27:00Z",
+    "ends": "2025-06-08T21:27:00Z"
+  }
+]
