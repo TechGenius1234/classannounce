@@ -2,8 +2,8 @@
   {
     "category": "Advisory",
     "title": "Special Weather Statement - Heat Event",
-    "messageFile": "/api/announcements/messages/advisory/SWS-08JUN25.md",
+    "messageFile": "https://raw.githubusercontent.com/TechGenius1234/classannounce/main/messages/advisory/SWS-08JUN25.md",
     "time": "2025-06-08T05:27:00Z",
-    "ends": "2025-06-08T21:27:00Z"
+    "ends": "2025-06-10T21:27:00Z"
   }
 ]
